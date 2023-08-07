@@ -1,0 +1,13 @@
+header{
+    width: 100%;
+    height: 600px;
+    background-image: url('https://sb.kaleidousercontent.com/67418/1920x1280/166659692b/ella-olsson-opbjwbccaeo-unsplash.jpg');
+     background-repeat: no-repeat; 
+    background-size: cover;
+    background-position:top;
+    background-attachment: fixed;
+    opacity: 1;
+}
+*{
+    margin: 0px;
+}

@@ -1,0 +1,11 @@
+div{
+    width: 300px;
+    height: 580px;
+    background-color: rgb(197, 147, 86);
+    padding: 10px;
+    float:left;
+    margin: 10px;
+}
+div img{
+    width: 100%;
+}
